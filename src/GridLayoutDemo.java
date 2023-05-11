@@ -1,8 +1,7 @@
 import javax.swing.JFrame;
-
-/* ESTUDANTE GUilherme Vinicius da Silva 
-IFMT: https://www.slideshare.net/secret/HrtIHOmPpKpmBc
-*/
+ /* ALUNO IFMT Guilherme Vinicius da Silva 
+  * CODIGO: https://www.slideshare.net/secret/HrtIHOmPpKpmBc
+  */
 public class GridLayoutDemo
 {
 public static void main(String[] args){
